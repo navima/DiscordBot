@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordBotServer", "DiscordBotServer\DiscordBotServer.csproj", "{9C5FF44B-ABCA-4776-B675-A62DD2CC1832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordWebhookServer", "DiscordWebhookServer\DiscordWebhookServer.csproj", "{473537E5-3AC1-432F-953F-473D9517B844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C5FF44B-ABCA-4776-B675-A62DD2CC1832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5FF44B-ABCA-4776-B675-A62DD2CC1832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5FF44B-ABCA-4776-B675-A62DD2CC1832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5FF44B-ABCA-4776-B675-A62DD2CC1832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473537E5-3AC1-432F-953F-473D9517B844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473537E5-3AC1-432F-953F-473D9517B844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473537E5-3AC1-432F-953F-473D9517B844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473537E5-3AC1-432F-953F-473D9517B844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD8B226-56FA-421A-A45A-0D55E2493697}
+	EndGlobalSection
+EndGlobal
